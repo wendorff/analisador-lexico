@@ -208,7 +208,7 @@ public class Analisador {
                 count = 0;
                 tokens.add(t);
             }else{
-                throw new RuntimeException("S√≠mbolo n√£o reconhecido na linha: "+countLine);
+                throw new RuntimeException("SÌmbolo n„o reconhecido na linha: "+countLine);
             }
         }
     }  

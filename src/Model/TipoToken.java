@@ -7,7 +7,7 @@ package Model;
 
 /**
  *
- * @author Yann Dihl
+ * @author Yann Dihl e Cícero Wendorff
  */
 public enum TipoToken {
     id, opIgual, num, simbEsp, opSoma, opDiv, opDif, opMult

@@ -14,7 +14,8 @@ import java.io.PrintWriter;
 
 /**
  *
- * @author Yann Dihl
+ * @author Yann Dihl e Cícero Wendorff
+
  */
 public class CriaArquivo {
     FileWriter arq;

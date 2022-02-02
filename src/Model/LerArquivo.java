@@ -13,7 +13,8 @@ import java.io.InputStream;
 
 /**
  *
- * @author Yann Dihl
+ * @author Yann Dihl e Cícero Wendorff
+
  */
 public class LerArquivo {
      InputStream is;
